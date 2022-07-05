@@ -1,0 +1,9 @@
+{
+	"ip":"npserver4554.aternos.me",
+	"port": "36811",
+	"name": "Asep",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
